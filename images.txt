@@ -1,2 +1,2 @@
-moviepilot:latest 
+jxxghp/moviepilot:latest
  
