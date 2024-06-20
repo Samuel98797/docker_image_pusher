@@ -1,2 +1,2 @@
-movieplot:latest 
+moviepilot:latest 
  
